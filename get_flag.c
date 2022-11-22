@@ -29,5 +29,5 @@ int get_flag(char s, flags_t *f)
 			break;
 	}
 
-	return (i);
+	return (0);
 }
