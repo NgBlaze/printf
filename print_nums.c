@@ -67,6 +67,7 @@ void print_number(int n)
  * @i: integer to evaluate
  * Return: number of digits
  */
-void count_diitss(int w){
-	name = 
-}
+int count_digit(int i)                                                                                                                                                                        
+{                                                                                                                                                                                             
+	unsigned int d = 0;                                                                                                                                                                   
+	unsigned int u;          
